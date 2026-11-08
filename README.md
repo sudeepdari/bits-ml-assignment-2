@@ -22,7 +22,7 @@ Dataset documentation: [UCI Adult Dataset](https://archive.ics.uci.edu/dataset/2
 
 ## c. GitHub Repository Link
 
-TODO: add the public GitHub repository URL after publishing this project.
+https://github.com/sudeepdari/bits-ml-assignment-2
 
 ## d. Models Used and Test Results
 
